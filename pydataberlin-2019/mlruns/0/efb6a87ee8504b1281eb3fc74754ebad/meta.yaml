@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/efb6a87ee8504b1281eb3fc74754ebad/artifacts
+end_time: 1673854883483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb6a87ee8504b1281eb3fc74754ebad
+run_name: ''
+run_uuid: efb6a87ee8504b1281eb3fc74754ebad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673854804943
+status: 3
+tags: []
+user_id: abinet

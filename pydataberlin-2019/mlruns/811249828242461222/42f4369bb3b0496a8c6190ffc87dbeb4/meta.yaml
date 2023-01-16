@@ -1,0 +1,15 @@
+artifact_uri: mlruns/811249828242461222/42f4369bb3b0496a8c6190ffc87dbeb4/artifacts
+end_time: 1673853284024
+entry_point_name: ''
+experiment_id: '811249828242461222'
+lifecycle_stage: active
+run_id: 42f4369bb3b0496a8c6190ffc87dbeb4
+run_name: honorable-hawk-928
+run_uuid: 42f4369bb3b0496a8c6190ffc87dbeb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673853278940
+status: 3
+tags: []
+user_id: abinet
